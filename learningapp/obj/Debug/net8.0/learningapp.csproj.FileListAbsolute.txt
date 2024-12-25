@@ -1,33 +1,137 @@
-D:\Azure\learningapp\bin\Debug\net8.0\appsettings.Development.json
-D:\Azure\learningapp\bin\Debug\net8.0\appsettings.json
-D:\Azure\learningapp\bin\Debug\net8.0\learningapp.staticwebassets.runtime.json
-D:\Azure\learningapp\bin\Debug\net8.0\learningapp.exe
-D:\Azure\learningapp\bin\Debug\net8.0\learningapp.deps.json
-D:\Azure\learningapp\bin\Debug\net8.0\learningapp.runtimeconfig.json
-D:\Azure\learningapp\bin\Debug\net8.0\learningapp.dll
-D:\Azure\learningapp\bin\Debug\net8.0\learningapp.pdb
-D:\Azure\learningapp\obj\Debug\net8.0\learningapp.GeneratedMSBuildEditorConfig.editorconfig
-D:\Azure\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfoInputs.cache
-D:\Azure\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfo.cs
-D:\Azure\learningapp\obj\Debug\net8.0\learningapp.csproj.CoreCompileInputs.cache
-D:\Azure\learningapp\obj\Debug\net8.0\learningapp.MvcApplicationPartsAssemblyInfo.cache
-D:\Azure\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cache
-D:\Azure\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cs
-D:\Azure\learningapp\obj\Debug\net8.0\staticwebassets.build.json
-D:\Azure\learningapp\obj\Debug\net8.0\staticwebassets.development.json
-D:\Azure\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.learningapp.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Azure\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.build.learningapp.props
-D:\Azure\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.learningapp.props
-D:\Azure\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.learningapp.props
-D:\Azure\learningapp\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Azure\learningapp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\Azure\learningapp\obj\Debug\net8.0\scopedcss\bundle\learningapp.styles.css
-D:\Azure\learningapp\obj\Debug\net8.0\scopedcss\projectbundle\learningapp.bundle.scp.css
-D:\Azure\learningapp\obj\Debug\net8.0\learningapp.dll
-D:\Azure\learningapp\obj\Debug\net8.0\refint\learningapp.dll
-D:\Azure\learningapp\obj\Debug\net8.0\learningapp.pdb
-D:\Azure\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
-D:\Azure\learningapp\obj\Debug\net8.0\ref\learningapp.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\appsettings.Development.json
+C:\tmp3\learningapp\bin\Debug\net8.0\appsettings.json
+C:\tmp3\learningapp\bin\Debug\net8.0\learningapp.staticwebassets.runtime.json
+C:\tmp3\learningapp\bin\Debug\net8.0\learningapp.exe
+C:\tmp3\learningapp\bin\Debug\net8.0\learningapp.deps.json
+C:\tmp3\learningapp\bin\Debug\net8.0\learningapp.runtimeconfig.json
+C:\tmp3\learningapp\bin\Debug\net8.0\learningapp.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\learningapp.pdb
+C:\tmp3\learningapp\bin\Debug\net8.0\Azure.Core.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Azure.Identity.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tmp3\learningapp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.csproj.AssemblyReference.cache
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfoInputs.cache
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfo.cs
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.csproj.CoreCompileInputs.cache
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cache
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cs
+C:\tmp3\learningapp\obj\Debug\net8.0\staticwebassets.build.json
+C:\tmp3\learningapp\obj\Debug\net8.0\staticwebassets.development.json
+C:\tmp3\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.learningapp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\tmp3\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.build.learningapp.props
+C:\tmp3\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.learningapp.props
+C:\tmp3\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.learningapp.props
+C:\tmp3\learningapp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\tmp3\learningapp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\tmp3\learningapp\obj\Debug\net8.0\scopedcss\bundle\learningapp.styles.css
+C:\tmp3\learningapp\obj\Debug\net8.0\scopedcss\projectbundle\learningapp.bundle.scp.css
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.csproj.CopyComplete
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.dll
+C:\tmp3\learningapp\obj\Debug\net8.0\refint\learningapp.dll
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.pdb
+C:\tmp3\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
+C:\tmp3\learningapp\obj\Debug\net8.0\ref\learningapp.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\appsettings.Development.json
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\appsettings.json
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\learningapp.staticwebassets.runtime.json
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\learningapp.exe
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\learningapp.deps.json
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\learningapp.runtimeconfig.json
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\learningapp.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\learningapp.pdb
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Azure.Core.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Azure.Identity.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\System.Memory.Data.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\System.Runtime.Caching.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Azure Web App\application\learningapp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learningapp.csproj.AssemblyReference.cache
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learningapp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfoInputs.cache
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfo.cs
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learningapp.csproj.CoreCompileInputs.cache
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learningapp.MvcApplicationPartsAssemblyInfo.cache
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cache
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cs
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\staticwebassets.build.json
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\staticwebassets.development.json
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.learningapp.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.build.learningapp.props
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.learningapp.props
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.learningapp.props
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\staticwebassets.pack.json
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\scopedcss\bundle\learningapp.styles.css
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\scopedcss\projectbundle\learningapp.bundle.scp.css
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learning.3A6B73E6.Up2Date
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learningapp.dll
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\refint\learningapp.dll
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learningapp.pdb
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
+d:\Azure Web App\application\learningapp\obj\Debug\net8.0\ref\learningapp.dll
 d:\learningapp\learningapp\bin\Debug\net8.0\appsettings.Development.json
 d:\learningapp\learningapp\bin\Debug\net8.0\appsettings.json
 d:\learningapp\learningapp\bin\Debug\net8.0\learningapp.staticwebassets.runtime.json
@@ -36,6 +140,42 @@ d:\learningapp\learningapp\bin\Debug\net8.0\learningapp.deps.json
 d:\learningapp\learningapp\bin\Debug\net8.0\learningapp.runtimeconfig.json
 d:\learningapp\learningapp\bin\Debug\net8.0\learningapp.dll
 d:\learningapp\learningapp\bin\Debug\net8.0\learningapp.pdb
+d:\learningapp\learningapp\bin\Debug\net8.0\Azure.Core.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Azure.Identity.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\System.Memory.Data.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\System.Runtime.Caching.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\learningapp\learningapp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+d:\learningapp\learningapp\obj\Debug\net8.0\learningapp.csproj.AssemblyReference.cache
 d:\learningapp\learningapp\obj\Debug\net8.0\learningapp.GeneratedMSBuildEditorConfig.editorconfig
 d:\learningapp\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfoInputs.cache
 d:\learningapp\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfo.cs
@@ -43,6 +183,7 @@ d:\learningapp\learningapp\obj\Debug\net8.0\learningapp.csproj.CoreCompileInputs
 d:\learningapp\learningapp\obj\Debug\net8.0\learningapp.MvcApplicationPartsAssemblyInfo.cache
 d:\learningapp\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cache
 d:\learningapp\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cs
+d:\learningapp\learningapp\obj\Debug\net8.0\learningapp.sourcelink.json
 d:\learningapp\learningapp\obj\Debug\net8.0\staticwebassets.build.json
 d:\learningapp\learningapp\obj\Debug\net8.0\staticwebassets.development.json
 d:\learningapp\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.learningapp.Microsoft.AspNetCore.StaticWebAssets.props
@@ -50,9 +191,10 @@ d:\learningapp\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.build.learni
 d:\learningapp\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.learningapp.props
 d:\learningapp\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.learningapp.props
 d:\learningapp\learningapp\obj\Debug\net8.0\staticwebassets.pack.json
-d:\learningapp\learningapp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+d:\learningapp\learningapp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 d:\learningapp\learningapp\obj\Debug\net8.0\scopedcss\bundle\learningapp.styles.css
 d:\learningapp\learningapp\obj\Debug\net8.0\scopedcss\projectbundle\learningapp.bundle.scp.css
+d:\learningapp\learningapp\obj\Debug\net8.0\learning.3A6B73E6.Up2Date
 d:\learningapp\learningapp\obj\Debug\net8.0\learningapp.dll
 d:\learningapp\learningapp\obj\Debug\net8.0\refint\learningapp.dll
 d:\learningapp\learningapp\obj\Debug\net8.0\learningapp.pdb
